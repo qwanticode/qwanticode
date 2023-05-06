@@ -11,6 +11,7 @@ My ambition? To put my skills at the service of a technological evolution that m
 If you need a quote or just want to chat, don't hesitate to contact me. With me, you can be sure that your project is in good hands!
 
 ## Preferred Technologies:
+🟢 Node.js
 ⚛️ React
 🟦 Typescript
 ➡️ Next.js
